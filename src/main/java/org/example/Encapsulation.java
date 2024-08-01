@@ -1,6 +1,6 @@
 package org.example;
 
-public class FirstClass {
+public class Encapsulation {
     private String username;
 
     public void setUsername(String username){

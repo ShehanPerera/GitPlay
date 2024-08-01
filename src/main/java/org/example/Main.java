@@ -2,8 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-       FirstClass firstClass = new FirstClass();
-       firstClass.setUsername("Shehan");
-        System.out.println(firstClass.getUsername());
+        Encapsulation encapsulation = new Encapsulation();
+        encapsulation.setUsername("Shehan");
+        System.out.println(encapsulation.getUsername());
     }
 }
